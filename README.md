@@ -14,6 +14,7 @@ Browse the design. Open the template. Make it yours.
 [Publish the site](#publish-on-github-pages) · [Manage templates](#manage-the-google-sheet) · [Customise](#customise-the-site) · [Troubleshoot](#troubleshooting)
 
 </div>
+<img width="1904" height="960" alt="image" src="https://github.com/user-attachments/assets/6a8bf7e2-c930-4cd5-b28c-1eb4912ad26a" />
 
 ---
 
