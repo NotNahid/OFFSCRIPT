@@ -2,7 +2,7 @@
 
 # OFFSCRIPT®
 
-**A curated CV template gallery by Notnahid.**
+**A curated CV template gallery by NotNahid.**
 
 Browse the design. Open the template. Make it yours.
 
